@@ -1,5 +1,5 @@
 # PasswordGeneratorGUI
-Generador de contraseñas en modo gráfico usando Tkinter. Con esta herramienta escrita en el lenguaje de programación Python, puede generar sus propias contraseñas de manara segura.
+Generador de contraseñas en modo gráfico usando Tkinter. Con esta herramienta escrita en el lenguaje de programación Python, puede generar sus propias contraseñas de manera segura.
 
 <img src="https://i.imgur.com/1y5EGgW.png" title="PasswordGeneratorGUI">
 <img src="https://i.imgur.com/JsCYtau.png" title="Portapapeles">
